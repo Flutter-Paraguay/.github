@@ -1,7 +1,7 @@
 # Flutter Paraguay 
 **¡Hola, bienvenido a la comunidad de Flutter Paraguay!**  
 En este perfil podrás encontrar recursos creados por la comunidad y también los canales oficiales.  
-**Nota importante:** Queremos destacar que nos regimos por nuestro código de conducta. Tómate el tiempo de leerlo :)
+**Nota importante:** Queremos destacar que nos regimos por nuestro [código de conducta](https://github.com/Flutter-Paraguay/.github/blob/main/CoC_Flutter_Py.md). Tómate el tiempo de leerlo :)
 
 
 

@@ -1,4 +1,4 @@
-
+# En proceso
 ## Motivación
 https://www.djangoproject.com/conduct/faq/
 https://opensource.guide/es/code-of-conduct/
